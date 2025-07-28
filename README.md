@@ -36,7 +36,7 @@ Continual Learning and AI Research
 ![Docker](https://img.icons8.com/color/48/000000/docker.png) 
 ![Git](https://img.icons8.com/color/48/000000/git.png) 
 ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
-![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png) 
+![Jupyter](https://img.icons8.com/?size=50&id=J0SgMWzAxqFj&format=png&color=000000) 
 ![VS Code](https://img.icons8.com/?size=50&id=48455&format=png&color=000000)
 
 📬 Get in Touch:
