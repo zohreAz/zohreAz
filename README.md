@@ -26,7 +26,7 @@ Continual Learning and AI Research
 
 
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
-![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) 
+![PyTorch](https://img.icons8.com/?size=50&id=O6SWwpPIM0GB&format=png&color=000000) 
 ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) 
 ![Hugging Face](https://img.icons8.com/color/48/000000/huggingface.png) 
 ![LangChain](https://img.icons8.com/color/48/000000/chain-link.png) 
