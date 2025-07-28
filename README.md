@@ -23,6 +23,8 @@ Computer Vision
 Continual Learning and AI Research
 
 🛠️ Technologies I Work With:
+
+
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![Pytorch](https://img.icons8.com/?size=50&id=jH4BpkMnRrU5&format=png&color=000000)
 
