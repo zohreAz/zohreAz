@@ -24,7 +24,7 @@ Continual Learning and AI Research
 
 🛠️ Technologies I Work With:
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
-![Pytorch](https://icons8.com/icon/jH4BpkMnRrU5/pytorch)
+![Pytorch](https://icons8.com/icon/jH4BpkMnRrU5/pytorch.png)
 
 📬 Get in Touch:
 
