@@ -2,11 +2,11 @@
 
 🔵 About Me:
 
-I’m passionate about applying machine learning and deep learning to real-world problems, especially in natural language processing and medical imaging. Currently, I work on building advanced AI systems for legal document understanding and knowledge extraction at Diako.
+I am passionate about large language models (LLMs) and the latest advances in AI. Currently, I work on building Retrieval-Augmented Generation (RAG) systems to enhance Persian legal document processing at work.
 
-With a Master’s in Computer Engineering from Tehran University and a background in Medical Engineering, I’ve gained rich experience in designing scalable ML pipelines, fine-tuning large language models, and developing predictive models and data-driven solutions.
+With a Master’s in Computer Engineering from Tehran University and a strong background in mathematics, I’ve gained rich experience in designing scalable ML pipelines, fine-tuning large language models, and developing predictive models and data-driven solutions.
 
-I’m deeply interested in exploring large language models, NLP, computer vision, and continually learning about emerging AI technologies.
+I’m deeply interested in exploring LLMs, NLP, computer vision, and continually learning about emerging AI technologies.
 
 This GitHub page is where I share projects, experiments, and contributions to open source — stay tuned for updates!
 
@@ -22,11 +22,14 @@ Computer Vision
 
 Continual Learning and AI Research
 
-Python | PyTorch | TensorFlow | Hugging Face | LangChain | Neo4j | Elasticsearch | FastAPI | Docker | Git | Linux | Jupyter | VS Code
+🛠️ Technologies I Work With:
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+![Pytorch](https://icons8.com/icon/jH4BpkMnRrU5/pytorch)
 
 📬 Get in Touch:
 
 zohre.azizollahy@gmail.com
+
 
 <!--
 **zohreAz/zohreAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
