@@ -26,10 +26,6 @@ Continual Learning and AI Research
 
 
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
-![Pytorch](https://img.icons8.com/?size=50&id=jH4BpkMnRrU5&format=png&color=000000)
-![Tensorflow](https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000)
-![ElasticSearch](https://img.icons8.com/?size=100&id=aGBLcugRkYpT&format=png&color=000000)
-![Python](https://img.icons8.com/color/48/000000/python--v1.png) 
 ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) 
 ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) 
 ![Hugging Face](https://img.icons8.com/color/48/000000/huggingface.png) 
