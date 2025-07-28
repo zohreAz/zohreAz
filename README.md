@@ -28,7 +28,7 @@ Continual Learning and AI Research
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![PyTorch](https://img.icons8.com/?size=50&id=O6SWwpPIM0GB&format=png&color=000000) 
 ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) 
-![Hugging Face](https://img.icons8.com/color/48/000000/huggingface.png) 
+![Hugging Face](https://img.icons8.com/?size=50&id=sop9ROXku5bb&format=png&color=000000) 
 ![LangChain](https://img.icons8.com/color/48/000000/chain-link.png) 
 ![Neo4j](https://img.icons8.com/color/48/000000/graph-database.png) 
 ![Elasticsearch](https://img.icons8.com/color/48/000000/elasticsearch.png) 
@@ -37,7 +37,7 @@ Continual Learning and AI Research
 ![Git](https://img.icons8.com/color/48/000000/git.png) 
 ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
 ![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png) 
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![VS Code](https://img.icons8.com/?size=50&id=48455&format=png&color=000000)
 
 📬 Get in Touch:
 
